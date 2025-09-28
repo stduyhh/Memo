@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rootProject.name = 'memo'
+=======
+rootProject.name = 'layered'
+>>>>>>> 8f6ccbe (memo api refactoring)
